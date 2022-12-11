@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T04:21:53.061Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Vx9ApnueeX8juR42ELta" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T04:22:38.190Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="i1Fj_XTM9iQ0oQ3u-4uZ" version="20.6.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="787" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -116,6 +116,24 @@
         </mxCell>
         <mxCell id="4ZVYAhuGB29EE994HRAR-168" value="用户名和密码校验" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#050505;" vertex="1" parent="1">
           <mxGeometry x="380" y="700" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZVYAhuGB29EE994HRAR-181" value="Assests" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="500" y="640" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZVYAhuGB29EE994HRAR-182" value="ID" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="500" y="670" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZVYAhuGB29EE994HRAR-183" value="Description" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="590" y="670" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZVYAhuGB29EE994HRAR-184" value="用户密码" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#050505;" vertex="1" parent="1">
+          <mxGeometry x="590" y="700" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZVYAhuGB29EE994HRAR-185" value="A01" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#050505;" vertex="1" parent="1">
+          <mxGeometry x="500" y="700" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZVYAhuGB29EE994HRAR-186" value="A01" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="692.5" y="360" width="35" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
